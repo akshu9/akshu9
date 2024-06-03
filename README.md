@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akshaymishra-portfolio.vercel.app/](https://akshaymishra-portfolio.vercel.app/)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Unity3d**
 
 - 📫 How to reach me **akshaymishrahindmotor7@gmail.com**
 
