@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Mishra</h1>
-<h3 align="center">A passionate frontend and Game developer from India</h3>
+<h3 align="center">A passionate Frontend and Game developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://akshaymishra-portfolio.vercel.app/](https://akshaymishra-portfolio.vercel.app/)
 
